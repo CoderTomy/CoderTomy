@@ -1,4 +1,4 @@
-## ¡Hello World!🌎
+¡Hello World!🌎
 
 I'm Tomy 👋
 
@@ -25,5 +25,3 @@ I'm Tomy 👋
 
 ### 💻 SO:
 <img src="https://cdn-icons-png.flaticon.com/512/888/888882.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="3%">
-
-##

@@ -24,12 +24,7 @@ I'm Tomy 👋
 ##
 
 ### 📲 Favourite APPs and Softwares:
-<img src="https://cdn-icons-png.flaticon.com/512/888/888867.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="3%">
-<img src="https://partnernews.sophos.com/de-de/wp-content/uploads/sites/5/2020/01/cropped-sophos-favicon-1.png" width="3%">
-<img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="3%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="3%">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888867.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="3%"> <img src="https://partnernews.sophos.com/de-de/wp-content/uploads/sites/5/2020/01/cropped-sophos-favicon-1.png" width="3%"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="3%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="3%">
 
 ##
 

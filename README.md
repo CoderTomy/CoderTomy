@@ -14,12 +14,7 @@ I'm Tomy 👋
 ##
 
 ### 👩‍💻 Programming:
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="3%">
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="3%">
 
 ##
 
@@ -29,9 +24,6 @@ I'm Tomy 👋
 ##
 
 ### 💻 SO:
-<img src="https://cdn-icons-png.flaticon.com/512/888/888882.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="3%">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="3%">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888882.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="3%"> <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="3%">
 
 ##
